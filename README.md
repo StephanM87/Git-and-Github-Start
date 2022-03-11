@@ -3,7 +3,9 @@
 What is Git, what's the difference to Github and Gitlab why does this have to be so confusing?? Don't worry, this will help
 
 ## Disclaimer:
-In this tutorial, we will at first get startet with Git and Github. This is nessecary because it is very easy to understand Git and Github when it has been already used. If you try to understand it without previuously having used it before, it will be very confusing and abstract! It's a little bit like the hen and egg padardox
+In this tutorial, we will at first get startet with Git and Github. This is nessecary because it is very easy to understand Git and Github when it has been already used. If you try to understand it without previuously having used it before, it will be very confusing and abstract! It's a little bit like the hen and egg padardox. 
+
+**Furthermore!** This tutorial is not meant as read only. I designed this tutorial in a way that you will have to follow the steps and get used with the wording and the basic commands. Git and Github can be learned very fast! But you will need to work on it get used to it and get a feeling of how it works. Therefore, please perform the steps described in the tutorial :)
 
 # Tutorial Steps
 - [install git](#install_git)
