@@ -122,18 +122,19 @@ Now we have set up git locally, but the use the full power we need, we will have
 
 and Create an account for a tutorial, please click [here](https://fz-juelich.sciebo.de/s/vZwAO3FKJVl8Ex6)
 
-## Step 2: create a new repository on github
+## Step 2: create a new repository on Github
 
-Now we have installed git locally and we have our github account, so now we are good to go and start working:
+Now we have installed git locally and we have our Github account, so now we are good to go and start working:
 
-The first step will be to create a repository on github. It is important to start like this, because we want to be able to share with other, work with our supervisors or work on different computers and have everything synchronised! In the First step, Therefore Create a new Repo as suggested in the gif or the video:
+The first step will be to create a repository on github. Repositories can be seen as **storage units** for files. It is important to start like this, because we want to be able to share with other, work with our supervisors or work on different computers and have everything synchronised! In the First step, Therefore Create a new Repo as suggested in the gif or the video:
 
 ![SegmentLocal](./assets/videos/create-repo-better.gif "git")
+
 
 a full video tutorial is available [here](https://fz-juelich.sciebo.de/s/6fB2heVQsfNBBaw)
 
 
-## Step 3: Connect Github with your local git repository
+## Step 3: Connect Github with your local git
 
 This is a really amazing function of github. To connect your local repository with your Github repository you can simply **clone it**:
 
@@ -168,6 +169,7 @@ Example:
 
 See Video [here](https://fz-juelich.sciebo.de/s/G849OFzUkjzMbAt)
 
+**!Important** Now we basically have two repositories, one on your computer, and one on your Github account! 
 
 ---
 
