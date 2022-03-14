@@ -321,6 +321,14 @@ use the `git push`command to synchronise your changes with the github repo. Now 
 
 </details>
 
+The take home messages from this tutorial are:
+
+- How to create a [Github repository](#create-gihub-account)
+- Cloning Repositories [from Github](#create-gihub-account)
+- The meaning of staging (add command), versioning [(commit command)](#workflow)  
+- push (add your lates changes to your Github repository) and pull [(retrieve changes from Github)](#github-push-pull)
+
+
 There are many more applications for git and Github. My intention in this tutorial was basically to give you the most basic concepts and how to get started with git and Github. It looks really intimidating in the beginning but once you know how to handle the wording and the basic commands it's very easy and productive. Furthermore, you will probably use Software like VSCode or Github desktop, which provide an user interface. But this is very dependent on how your work will continue. Github reveals its power especially when collaborating with other colleagues. In Github, you will find a whole project management platform, which will help you to organise your work. A tutorial for this can be found [here](https://www.youtube.com/watch?v=TKJ4RdhyB5Y&list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg&index=5)
 
 
