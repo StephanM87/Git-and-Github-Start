@@ -36,3 +36,7 @@ Together with these functionalities you will get:
 This means that you now not only have the possibility to plan and organsie your work in a much more shareable and easier way, you can connect different tasks directly to files in your repository!
 
 </details>
+
+# First steps with git and Github
+
+There's a tutorial [here](https://github.com/StephanM87/Git-and-Github-Start/tree/main/Git%20tutorial) which will show you how to get started.
