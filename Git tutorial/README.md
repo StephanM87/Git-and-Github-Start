@@ -24,7 +24,7 @@ Git in contrast to Github or Gitlab is a program which runs on your computer. Th
 
 ### Step 1 Visit Git website and download the installer:
 
-- [https://git-scm.com/download/win](https://git-scm.com/download/win) **for windows users**
+- [https://git-scm.com/download/win](https://git-scm.com/download/win) **for windows users** (**64 bit installation)**
 - [https://git-scm.com/download/mac](https://git-scm.com/download/mac) **for mac** (if you are using mac then it is probalbly already installed)
 
 ### Step 2: First use of Git
