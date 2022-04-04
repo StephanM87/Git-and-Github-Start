@@ -22,6 +22,7 @@ First of all what is a repository? It's basically a **bucket** in which your fol
 This was already great, simply because I never had to worry about losing the progress of manuscript I created or data I collected. But now you still only have a versioned folder on your repository right?
 
 Not directly. The great benefit of repositories is that you can synchronise them with storage capacities living in a cloud:
+  
 <img src="./assets/git-repo-internet.png" width=250>
 
 This means in principal that you have now a similar setup as with dropbox or sciebo. With the difference that everythin is versioned, right? Not directly. 
